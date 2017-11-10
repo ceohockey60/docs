@@ -14,7 +14,7 @@ This document defines the roadmap for TiDB development.
   - [ ] Optimize the cost model
 - [ ] Executor
   - [ ] Parallel Operators
-  - [ ] Compact Row Foramt to reduce memory usage
+  - [ ] Compact Row Format to reduce memory usage
   - [ ] File Sort
 - [ ] Support View
 - [ ] Support Window Function
